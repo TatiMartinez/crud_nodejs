@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "cesit-2022",
+            "database": "${workspaceFolder:crud_nodejs}/src/database/database.sqlite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "cesit2",
+            "database": "${workspaceFolder:crud_nodejs}/src/database/database.sqlite"
+        }
+    ]
+}
